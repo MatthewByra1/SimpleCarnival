@@ -33,11 +33,3 @@ The game takes places with a character sliding down a vine. The character must a
 _________Petting Zoo_______________
 A petting zoo where the goal of the game is to pet the pig as many times as possible within a short amount of time. Don't make the pig angry!
 
---------AUTHORS' NOTES-------------
-
-1. In Phase 2, our group put a lot more emphasis on documenting our code and making sure our classes
-   had clear descriptions of their purpose. 
-
-2. Another new main feature added to Simple Carnival is another game called Slide Game. See description above
-
-3. The UML diagrams for all the games are located within the phase2 directory of our app.
